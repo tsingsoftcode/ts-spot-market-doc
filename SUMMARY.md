@@ -1,9 +1,9 @@
-# 目录 {#bask}
+# Summary
 
 * [项目简介](README.md)
 * [后台管理](chapter1.md)
   * [权限管理](chapter1/quan-xian-guan-li.md)
-    * 用户管理
+    * [用户管理](chapter1/quan-xian-guan-li/yong-hu-guan-li.md)
     * 菜单管理
     * 角色类型
     * 角色管理
@@ -17,6 +17,9 @@
   * [消息管理](chapter1/xiao-xi-guan-li.md)
     * 接收消息
     * 发送消息
-
-
+* [售电中长期交易支撑平台](shou-dian-zhong-chang-qi.md)
+* [现货模拟平台](xian-huo-mo-ni-ping-tai.md)
+  * 需求侧
+  * 供应侧
+  * 管理侧
 
