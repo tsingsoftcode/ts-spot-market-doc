@@ -4,7 +4,7 @@
 * [后台管理](chapter1.md)
   * [权限管理](chapter1/quan-xian-guan-li.md)
     * [用户管理](chapter1/quan-xian-guan-li/yong-hu-guan-li.md)
-    * 菜单管理
+    * [菜单管理](chapter1/quan-xian-guan-li/cai-dan-guan-li.md)
     * 角色类型
     * 角色管理
   * [系统监控](chapter1/xi-tong-jian-kong.md)
