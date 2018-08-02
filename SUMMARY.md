@@ -19,13 +19,27 @@
     * 发送消息
 * [售电中长期交易支撑平台](shou-dian-zhong-chang-qi.md)
   * [档案管理](shou-dian-zhong-chang-qi/dang-an-guan-li.md)
-  * 购售电交易管理
-  * 合同管理
+    * 客户管理
+    * 签约管理
+    * 售电公司管理
+    * 居间商管理
+    * 电源商管理
+  * [购售电交易管理](shou-dian-zhong-chang-qi/gou-shou-dian-jiao-yi-guan-li.md)
+    * 长协交易
+    * 月度竞争交易
+    * 客户需求申报
+  * [合同管理](shou-dian-zhong-chang-qi/he-tong-guan-li.md)
+  * [用电信息采集管理](shou-dian-zhong-chang-qi/yong-dian-xin-xi-cai-ji-guan-li.md)
+    * 月电量统计
+    * 日电量统计
+    * 日负荷曲线
+    * 日负荷特性
+    * 月负荷特性
   * 结算管理
-  * 用电信息采集管理
   * 经营数据分析
   * 月度电量预测
   * 客户营销管理
+  * 采集监控概况
 * [现货模拟平台](xian-huo-mo-ni-ping-tai.md)
   * 需求侧
   * 供应侧
