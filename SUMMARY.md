@@ -18,8 +18,9 @@
     * 接收消息
     * 发送消息
 * [售电中长期交易支撑平台](shou-dian-zhong-chang-qi.md)
+  * 档案管理
 * [现货模拟平台](xian-huo-mo-ni-ping-tai.md)
   * 需求侧
   * 供应侧
-  * 管理侧
+  * [管理侧](xian-huo-mo-ni-ping-tai/guan-li-ce.md)
 
