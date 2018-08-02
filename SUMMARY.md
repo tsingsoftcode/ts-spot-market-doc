@@ -18,7 +18,14 @@
     * 接收消息
     * 发送消息
 * [售电中长期交易支撑平台](shou-dian-zhong-chang-qi.md)
-  * 档案管理
+  * [档案管理](shou-dian-zhong-chang-qi/dang-an-guan-li.md)
+  * 购售电交易管理
+  * 合同管理
+  * 结算管理
+  * 用电信息采集管理
+  * 经营数据分析
+  * 月度电量预测
+  * 客户营销管理
 * [现货模拟平台](xian-huo-mo-ni-ping-tai.md)
   * 需求侧
   * 供应侧
